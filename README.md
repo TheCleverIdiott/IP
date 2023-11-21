@@ -1,2 +1,10 @@
-- <a href="https://summarizze.streamlit.app/">Click for Live Demo of mini implementation</a>
-- <a href="https://www.canva.com/design/DAFiKgHLzyM/Ui2nj-WOYAG8dX70nHstKQ/view">Click for Presentation</a>
+## 5th Semester Innovative Project Deliverables
+
+
+
+### Group Members:
+- Aritra Ghosh   ( Section: A, Roll: 74, Enrollment Number: 12021002002137 )
+- Subhojit Ghosh ( Section: B, Roll: 97, Enrollment Number: 12021002002160 )
+
+
+- <a href="https://summarizze.streamlit.app/">Click for Live Demo  (mini implementation)</a>
