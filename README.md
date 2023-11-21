@@ -7,7 +7,7 @@
 4) Research Paper (Sent for publication): <a href="https://github.com/TheCleverIdiott/IP/blob/main/Research%20Paper.pdf">Click Here</a>
 5) Mini Implementation: <a href="https://summarizze.streamlit.app/">Click Here</a>
 6) Working toward Building a Model (Understanding Novel Models): <a href="">Click Here</a>
-7) Dataset (2L+ Data): <a href="https://summarizze.streamlit.app/">Click Here</a>
+7) Dataset (2L+ Data): <a href="https://mega.nz/file/sdBwHQRI#yykHpuwcHldDz-K_EG-qhXGcgvvJyO4eNydVMEkKWhs">Click Here</a>
 
 
 
